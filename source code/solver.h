@@ -3,7 +3,7 @@
 
 #include <QObject>
 #include "config.h"
-
+ 
 class Solver : public QObject
 {
     Q_OBJECT
