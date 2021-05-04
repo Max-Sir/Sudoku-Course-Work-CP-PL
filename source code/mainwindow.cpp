@@ -11,7 +11,7 @@
 #include <QTextCodec>
 #include <QPainter>
 #include <QDir>
-
+ 
 static QFont gamefont("Ubuntu",16);
 static QFont smallfont("Ubuntu",10);
 
