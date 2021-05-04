@@ -6,7 +6,7 @@ Solver::Solver(QObject *parent) : QObject(parent)
     for(int i=0;i<1024;++i)idx[i]=0;
     for(int i=1;i<10;i++)idx[1<<i]=i;
 }
-
+ 
 int Solver::calc(int x){
     int f=0;
     while(x)
