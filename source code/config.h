@@ -1,6 +1,6 @@
 #ifndef CONFIG
 #define CONFIG
-
+ 
 #include <QObject>
 #include <QDebug>
 #include <QString>
